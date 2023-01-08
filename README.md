@@ -9,10 +9,10 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 
 ### 🗃️TABLE OF CONTENTS ###
 
-* [Excel](https://github.com/rosalbamartin/Rosalba-Portfolio/edit/main/README.md#Excel)
-* [SQL](https://github.com/rosalbamartin/Rosalba-Portfolio/edit/main/README.md#SQL)
-* [Tableau](https://github.com/rosalbamartin/Rosalba-Portfolio/edit/main/README.md#Tableau)
-* [R](https://github.com/rosalbamartin/Rosalba-Portfolio/edit/main/README.md#R) 
+* [Excel](https://github.com/rosalbamartin/Rosalba-Portfolio#Excel)
+* [SQL](https://github.com/rosalbamartin/Rosalba-Portfolio#SQL)
+* [Tableau](https://github.com/rosalbamartin/Rosalba-Portfolio#Tableau)
+* [R](https://github.com/rosalbamartin/Rosalba-Portfolio#R) 
 
 ### EXCEL ###
 
