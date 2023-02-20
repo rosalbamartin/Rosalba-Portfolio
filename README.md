@@ -24,22 +24,22 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 
 ### SQL ###
 
-| Project Name                 |         Description                                         | Content                       |
-| ---------------------------- | -------------------------------------------------------| ------------------------------|
-|On Going                 |                                |   |
-|                              |                                                                      |                               |
+| Project Name                 |         Description                                                          | Content                                            |
+| ---------------------------- | -------------------------------------------------------| -----------------------------------------------------|
+| On Going                     |                                                        |                                                                          |
+| World Population             |                                                        |                                                                          |
 
 
 ### TABLEAU ###
 
-| Project Name                 |         Description                                     | Tableau Dashboard                     |
+| Project Name                 |         Description                                     | Tableau Dashboard                                                       |
 | ---------------------------- | -------------------------------------------------------| ------------------------------|
 | [Global Population 2022](https://public.tableau.com/app/profile/rosalba.martin/viz/GlobalPopulation2022/Dashboard1)                  |        Overview of global population growth       | Dashboard |
-| [Superstore Sales](https://public.tableau.com/app/profile/rosalba.martin/viz/SuperstoreAnalysis_16709485167360/Dashboard1)         |       analysis of sales and profitability from 2014 to 2017    |  Interactive dashboard |                          
+| [Superstore Sales](https://public.tableau.com/app/profile/rosalba.martin/viz/SuperstoreAnalysis_16709485167360/Dashboard1)           |      analysis of sales and profitability from 2014 to 2017    |  Interactive dashboard |                          
 
 ### R ###
 
-| Project Name                 |         Description                                     | Content                       |
-| ---------------------------- | -------------------------------------------------------| ------------------------------|
-| [Cyclistic Bike Share](https://github.com/rosalbamartin/Cyclistic-Bike-share-Data-Analysis)      | This is a Google Capstone project. Analysis of annual members vs casual users to help guide cyclistic marketing strategies                       | data cleaning, pivot table, interactiove dashboard  |
-|                              |                                                                      |                               |
+| Project Name                 |         Description                                     | Content                                                                 |
+| ---------------------------- | -------------------------------------------------------| -------------------------------------------------------------------------|
+| [Cyclistic Bike Share](https://github.com/rosalbamartin/Cyclistic-Bike-share-Data-Analysis)      | This is a Google Capstone project. Analysis of annual members vs casual users to help guide cyclistic marketing strategies                       | data cleaning, pivot table, interactiove dashboard                               |
+|                              |                                                                      |                                                            |
