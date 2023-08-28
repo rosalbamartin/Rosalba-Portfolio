@@ -20,7 +20,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 | Project name                                                                                        | Desciption           | Content                                            |
 |-----------------------------------------------------------------------------------------------------|----------------------|----------------------------------------------------|
 |  [Bike Users](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx) |  Bike sales analysis | data cleaning, pivot table, interactive dashboard  |
-|  [Sales Analysis](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx)|  Sales analysis   |Interactive dashboard                               |
+|  [Sales Analysis](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx)|  Sales analysis |Interactive dashboard                             |
 
 
 ### SQL ###
