@@ -20,7 +20,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 | Project name                                                                                        | Desciption           | Content                                            |
 |-----------------------------------------------------------------------------------------------------|----------------------|----------------------------------------------------|
 |  [Bike Users](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx) |  Bike sales analysis | data cleaning, pivot table, interactive dashboard  |
-|  [Sales Analysis](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx)|  Sales analysis |Interactive dashboard                             |
+|  [Sales Analysis](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx)| Sales analysis |Interactive dashboard                             |
 
 
 ### SQL ###
@@ -29,12 +29,14 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 | Project Name                 |         Description                                                         | Content                                            |
 | ---------------------------- | ------------------------------------------------------- | -----------------------------------------------------------------------|
 | Other projects on going|  
-| [World Population](https://github.com/rosalbamartin/SQL/blob/main/World%20Population)| Analisys of the world population since 1970 until 2022 |   data exploration, alias, calculations and joins                                                                        
-                                                                                                                                                             
+| [World Population](https://github.com/rosalbamartin/SQL/blob/main/World%20Population)| Analisys of the world population since 1970 until 2022 |   data exploration, alias, 
+calculations and joins     
+| [Health Analytics Mini Case Study](https://github.com/rosalbamartin/SQL/blob/main/Danny's%20Diner.md)|Solutions for the Data with Dany aprenticeship program |
+| [Danny's Diner](                                                                                                                                                           
 
 
 ### TABLEAU ###
-
+ 
 | Project Name                 |         Description                                                         | Content                                            |
 | ---------------------------- | ------------------------------------------------------- | -----------------------------------------------------------------------|
 | [Global Population 2022](https://public.tableau.com/app/profile/rosalba.martin/viz/GlobalPopulation2022/Dashboard1)                  |        Overview of global population growth       | Dashboard                                                      |                                             |                                  |
