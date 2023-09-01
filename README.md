@@ -31,8 +31,9 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 | Other projects on going|  
 | [World Population](https://github.com/rosalbamartin/SQL/blob/main/World%20Population)| Analisys of the world population since 1970 until 2022 |   data exploration, alias, 
 calculations and joins     
-| [Health Analytics Mini Case Study](https://github.com/rosalbamartin/SQL/blob/main/Danny's%20Diner.md)|Solutions for the Data with Dany aprenticeship program |
-| [Danny's Diner](                                                                                                                                                           
+| [Health Analytics Mini Case Study](https://github.com/rosalbamartin/SQL/blob/main/Health%20Analytics%20Mini%20Case%20Study.md)|
+| [Danny's Diner](https://github.com/rosalbamartin/SQL/blob/main/Danny's%20Diner.md)|Solutions for the Data with Dany aprenticeship program) | 
+
 
 
 ### TABLEAU ###
