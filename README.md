@@ -19,7 +19,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 ### EXCEL ###
 | Project name | Desciption | Content |
 | :---: | :---: | :---: |
-|  [Bike Users](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx) | A guided tutorial with Alex Freberg in which I practice the data cleaning process and dashboard creation in Excel to analyze Bike sales according to the buyer,s profile | data cleaning, pivot table, interactive dashboard |
+|  [Bike Users](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx) | A guided tutorial with Alex Freberg in which I practice the data cleaning process and dashboard creation in Excel to analyze Bike sales according to the buyer's profile | data cleaning, pivot table, interactive dashboard |
 |  [Sales Analysis](https://github.com/rosalbamartin/Excel/blob/main/Bike%20users%20EXCEL%20Project.xlsx)| A Sales analysis using excel to create a well-design interactive dashboard with pivot tables and pivot charts inspired by The office Lab Youtube Channel |Interactive dashboard |
 
 
@@ -29,7 +29,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 | Project   Name | Description | Content |
 | :---: | :---: | :---: |
 | [World Population](https://github.com/rosalbamartin/SQL/blob/main/World%20Population)| Analisys of world population growth since 1970 until 2022 by continent | data exploration, alias, calculations and joins |     
-| [Health Analytics Mini Case Study](https://github.com/rosalbamartin/SQL/blob/main/Health%20Analytics%20Mini%20Case%20Study.md)| This is part of the Data with Danny program  in which I had to debug and completing SQL queries to analize patient's health data | Data debugging |
+| [Health Analytics Mini Case Study](https://github.com/rosalbamartin/SQL/blob/main/Health%20Analytics%20Mini%20Case%20Study.md)| This is part of the Data with Danny program  in which I had to debug and complete SQL queries to analize patient's health data | Data debugging |
 | [Danny's Diner](https://github.com/rosalbamartin/SQL/blob/main/Danny's%20Diner.md)|Solutions for the Data with Dany aprenticeship program) | 
 | Khan Academy Projects | This repo contains a series of mini projects from SQL basics to more advance queries | Database creation, data exploration, relational queries and data modification |
 
