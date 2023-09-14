@@ -30,8 +30,8 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
 | :---: | :---: | :---: |
 | [World Population](https://github.com/rosalbamartin/SQL/blob/main/World%20Population)| Analisys of world population growth since 1970 until 2022 by continent | data exploration, alias, calculations and joins |     
 | [Health Analytics Mini Case Study](https://github.com/rosalbamartin/SQL/blob/main/Health%20Analytics%20Mini%20Case%20Study.md)| This is part of the Data with Danny program  in which I had to debug and complete SQL queries to analize patient's health data | Data debugging |
-| [Danny's Diner](https://github.com/rosalbamartin/SQL/blob/main/Danny's%20Diner.md)|Solutions for the Data with Dany aprenticeship program) | 
-| Khan Academy Projects | This repo contains a series of mini projects from SQL basics to more advance queries | Database creation, data exploration, relational queries and data modification |
+| [Danny's Diner](https://github.com/rosalbamartin/SQL/blob/main/Danny's%20Diner.md)|Solutions for the Data with Dany aprenticeship program | 
+| [Khan Academy Projects](https://github.com/rosalbamartin/SQL/tree/main)|This repo contains a series of mini projects from SQL basics to more advance queries | Database creation, data exploration, relational queries and data modification |
 
 
 
