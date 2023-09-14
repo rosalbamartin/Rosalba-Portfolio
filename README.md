@@ -39,8 +39,8 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/rosalba-martin
  
 | Project Name | Description | Content |
 | :---: | :---: | :---: |
-| [Global Population 2022](https://public.tableau.com/app/profile/rosalba.martin/viz/GlobalPopulation2022/Dashboard1) | Overview of global population growth       | Dashboard  |  
-| [Superstore Sales](https://public.tableau.com/app/profile/rosalba.martin/viz/SuperstoreAnalysis_16709485167360/Dashboard1) | analysis of sales and profitability from 2014 to 2017 | Interactive dashboard | 
+| [Global Population 2022](https://public.tableau.com/app/profile/rosalba.martin/viz/GlobalPopulation2022/Dashboard1) | Overview of global population growth  in the last decades    | Dashboard  |  
+| [Superstore Sales](https://public.tableau.com/app/profile/rosalba.martin/viz/SuperstoreAnalysis_16709485167360/Dashboard1) | Superstore sales analysis and profitability from 2014 to 2017 according to the product category, total revenue per month and per year in the US territory | Interactive dashboard | 
 
 ### R ###
                                                 
